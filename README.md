@@ -8,9 +8,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color: #4CAF50;">Bingi Umesh</span></h1>
-<h3 align="center">
-  A Passionate Learner in Technology and Development 🚀 | B.Tech Student 🌟
-</h3>
+<h4 align="center">
+  👨‍💻 A Passionate Learner in Technology and Development 🚀 | B.Tech Student 🌟 <br />
+  🚀 I enjoy solving problems, building projects, and growing with the ever-changing tech world.
+</h4>
 
 ---
 
@@ -34,14 +35,6 @@
       alt="GitHub"
     />
   </a>
-</p>
-
----
-
-<p align="center" style="font-size: 1.2rem;">
-  👨‍💻 I am a B.Tech student passionate about <strong>Software Development</strong> and <strong>Web Development</strong>. <br />
-  🌟 Currently learning <a href="https://nextjs.org/" target="_blank" style="color: #007ACC;"><strong>Next.js</strong></a> and the <strong>MERN stack</strong>. <br />
-  🚀 I enjoy solving problems, building projects, and growing with the ever-changing tech world.
 </p>
 
 ---
